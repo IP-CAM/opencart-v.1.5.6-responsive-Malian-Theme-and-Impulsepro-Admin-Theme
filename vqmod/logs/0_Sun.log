@@ -1,0 +1,45 @@
+---------- Date: 2014-07-27 21:25:48 ~ IP : 111.240.137.126 ----------
+REQUEST URI : /admin/index.php?route=sale/voucher/history&amp;token=3c90651020c08c19457f8ae2048fc8eb&amp;voucher_id=1
+MOD DETAILS:
+   modFile   : C:\AppServ\Apache2.2\htdocs\opencart\vqmod/xml/admin_theme_base5builder_impulsepro_1.5.5-above.xml
+   id        : Admin Theme - Base 5 Builder - ImpulsePro
+   version   : 1.0.4
+   vqmver    : 2.0
+   author    : Niyi Sodipe - Base5Builder.com
+
+File Name    : admin/view/template/sale/voucher_*(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <div class="heading">
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-07-27 21:30:15 ~ IP : 111.240.137.126 ----------
+REQUEST URI : /admin/index.php?route=sale/voucher/history&amp;token=3c90651020c08c19457f8ae2048fc8eb&amp;voucher_id=1
+MOD DETAILS:
+   modFile   : C:\AppServ\Apache2.2\htdocs\opencart\vqmod/xml/admin_theme_base5builder_impulsepro_1.5.5-above.xml
+   id        : Admin Theme - Base 5 Builder - ImpulsePro
+   version   : 1.0.4
+   vqmver    : 2.0
+   author    : Niyi Sodipe - Base5Builder.com
+
+File Name    : admin/view/template/sale/voucher_*(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <div class="heading">
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-07-27 22:59:54 ~ IP : 111.240.137.126 ----------
+REQUEST URI : /admin/index.php?route=total/low_order_fee&amp;token=6f6203243b310c1d5525f849c98f68c7
+MOD DETAILS:
+   modFile   : C:\AppServ\Apache2.2\htdocs\opencart\vqmod/xml/admin_theme_base5builder_impulsepro_1.5.5-above.xml
+   id        : Admin Theme - Base 5 Builder - ImpulsePro
+   version   : 1.0.4
+   vqmver    : 2.0
+   author    : Niyi Sodipe - Base5Builder.com
+
+File Name    : admin/view/template/total/low_order_fee.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <td><?php echo $entry_tax; ?></td>
+
+----------------------------------------------------------------------
+
+

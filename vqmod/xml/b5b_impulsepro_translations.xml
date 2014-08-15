@@ -1,0 +1,17 @@
+<modification>
+	<id>ImpulsePro Translations</id>
+	<version>1.0.4</version>
+	<vqmver>2.0</vqmver>
+	<author>Niyi Sodipe - Base5Builder.com</author>
+	<file name="admin/language/czech/common/home.php">
+		<operation>
+			<search position="before"><![CDATA[
+				?> ]]></search>
+			<add><![CDATA[
+				$_['text_total_sales_previous_years'] = '年度銷售總額';
+				$_['text_other_stats'] = '其他資訊';
+				$_['text_total_review'] = '回顧總計:';
+				]]></add>
+		</operation>
+	</file>
+</modification>
